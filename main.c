@@ -2,8 +2,6 @@
 #include "graph.h"
 #include "node.h"
 #include "algo.h"
-#include <stdlib.h>
-
 #define backslashn 10
 
 
@@ -39,5 +37,4 @@ int main() {
 
         }
     }
-    free(head);
 }
