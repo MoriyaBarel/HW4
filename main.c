@@ -37,4 +37,5 @@ int main() {
 
         }
     }
+    free_graph(head);
 }
