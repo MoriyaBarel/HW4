@@ -38,4 +38,5 @@ int main() {
 
         }
     }
+    free(head);
 }
